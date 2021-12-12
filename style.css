@@ -1,0 +1,48 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+.barra_de_navegación {
+    background-color: coral;
+    padding: 4px;
+    height: 90px;
+    display: grid;
+    grid-template-columns: 5% 5% 5% 70% 5% 5% 5%;
+    align-items: center;
+}
+
+.boton_logo{
+    background-color: cornflowerblue;
+    height: 80%;
+}
+
+.boton_inicio {
+    background-color: crimson;
+    height: 80%;
+}
+
+.boton_hoy {
+    background-color: darkblue;
+    height: 80%;
+}
+
+.barra_busqueda {
+    background-color: darkgoldenrod;
+    height: 80%;
+}
+
+.boton_notificacion {
+    background-color: darkgreen;
+    height: 80%;
+}
+
+.boton_comentario {
+    background-color: blueviolet;
+    height: 80%;   
+}
+
+.boton_usuario {
+    background-color: darkred;
+    height: 80%;
+}
