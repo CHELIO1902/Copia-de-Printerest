@@ -14,7 +14,17 @@ html, body {
 
 .boton_logo{
     background-color: cornflowerblue;
-    height: 80%;
+    height: 100%;
+}
+
+.logo_gif {
+    display: grid;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+}
+img {
+    border-radius: 60%;
 }
 
 .boton_inicio {
